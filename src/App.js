@@ -252,6 +252,20 @@ function App() {
               boxShadow: "0px 5px 11px 2px rgba(0,0,0,0.7)",
             }}
           >
+          <s.SpacerLarge />
+            <StyledImg alt="Polygon Network" src="https://cdn-clnjh.nitrocdn.com/TOiEQGwTbGkryQwPKJNkfTqmxywIpuSP/assets/static/optimized/rev-15cfd2e/wp-content/uploads/2021/05/polygon-network-logo-696x365.jpg" />
+          <s.SpacerLarge />
+          <s.TextDescription
+              style={{
+                textAlign: "center",
+                color: "var(--primary-text)",
+              }}
+            >
+              <StyledLink target={"_blank"} href="https://academia.defilatam.com/billeteras/polygon/metamask/anadir-polygon-a-metamask">
+                How to add Polygon Network to Metamask
+              </StyledLink>
+            </s.TextDescription>
+            <s.SpacerSmall />
             <s.TextTitle
               style={{
                 textAlign: "center",
