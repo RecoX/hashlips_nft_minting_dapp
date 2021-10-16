@@ -1,9 +1,9 @@
 {
-  "CONTRACT_ADDRESS": "0xfac12d04f3519b2230569fef6c57ebbb714d7db8",
-  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xfac12d04f3519b2230569fef6c57ebbb714d7db8",
+  "CONTRACT_ADDRESS": "0x3c2c82868f682C0A26FDF779C1F36dc753532a07",
+  "SCAN_LINK": "https://polygonscan.com/address/0x3c2c82868f682C0A26FDF779C1F36dc753532a07#code",
   "NETWORK": {
-    "NAME": "Rinkeby",
-    "SYMBOL": "Eth",
+    "NAME": "Polygon Mainnet",
+    "SYMBOL": "MATIC",
     "ID": 4
   },
   "NFT_NAME": "AO20 The Naked War",
